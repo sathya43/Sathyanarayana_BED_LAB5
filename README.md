@@ -14,4 +14,4 @@ Swagger Documentation can be accessed at URL: http://localhost:8080/swagger-ui.h
 Actuator End point: http://localhost:8080/actuator
 
 
-Please refer the screenshots folder to have a look at working endpoints which are available
+Please refer the screenshots folder to have a look at working endpoints which are available. Refer EmployeeManagement.pdf under screenshots folder if screenshots are not accesible.
