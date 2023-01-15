@@ -12,3 +12,6 @@ The application can be accessed on the URL: http://localhost:8080/employees
 Swagger Documentation can be accessed at URL: http://localhost:8080/swagger-ui.html
 
 Actuator End point: http://localhost:8080/actuator
+
+
+Please refer the screenshots folder to have a look at working endpoints which are available
